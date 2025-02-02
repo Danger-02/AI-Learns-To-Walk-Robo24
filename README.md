@@ -9,9 +9,8 @@ This project trains an AI agent to walk using Reinforcement Learning in the AntB
 ✅ Customizable Training: Modify hyperparameters and training duration.
 
 📦 Dependencies :
-
-Python 3.9
-OpenAI Gym
-PyBullet
-Stable-Baselines3
-Streamlit
+- Python 3.9
+- OpenAI Gym
+- PyBullet
+- Stable-Baselines3
+- Streamlit
