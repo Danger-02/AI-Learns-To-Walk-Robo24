@@ -19,7 +19,7 @@ This project was developed and presented at the **Robotics Club, MNNIT Allahabad
 
 ---
 
-## 🚀 Features
+## Features :
 
 - **Reinforcement Learning** — Agent trained using PPO (Stable-Baselines3) on a continuous-control locomotion task.
 - **Physics-Based Simulation** — Realistic quadruped dynamics via PyBullet's AntBulletEnv-v0.
@@ -29,7 +29,7 @@ This project was developed and presented at the **Robotics Club, MNNIT Allahabad
 
 ---
 
-## 📊 Results
+## Results :
 
 The agent was trained for 100 episodes (~10,240 timesteps per episode, ~1M total timesteps). Mean episodic reward improved substantially over the course of training:
 
@@ -43,7 +43,7 @@ Policy convergence was tracked using standard PPO diagnostics: KL divergence, cl
 
 ---
 
-## 📦 Dependencies
+## Dependencies :
 
 - Python 3.9
 - [OpenAI Gym](https://github.com/openai/gym)
@@ -61,7 +61,7 @@ pip install gym pybullet pybullet_envs stable-baselines3 streamlit tqdm
 
 ---
 
-## 🛠️ Usage
+## Usage :
 
 ### Train the agent
 
