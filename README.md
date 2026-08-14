@@ -9,7 +9,7 @@ Training and visualizing a physics-based quadruped locomotion agent using Deep R
 
 ---
 
-## 📖 Overview
+## Overview :
 
 This project trains an AI agent to walk from scratch using **Proximal Policy Optimization (PPO)** in the **AntBulletEnv-v0** physics simulation environment (PyBullet). The agent starts with no knowledge of locomotion and, through iterative reinforcement learning, learns to coordinate its legs to move forward efficiently.
 
