@@ -15,7 +15,7 @@ This project trains an AI agent to walk from scratch using **Proximal Policy Opt
 
 The trained policy is then loaded into an interactive **Streamlit** dashboard, where the agent's walking behavior can be visualized and monitored in real time.
 
-This project was developed and presented at the **Robotics Club, MNNIT Allahabad**. A demo video is linked above.
+This project was developed and presented as annual Robotics Project 2024 at the **Robotics Club, MNNIT Allahabad**. A demo video is linked above.
 
 ---
 
