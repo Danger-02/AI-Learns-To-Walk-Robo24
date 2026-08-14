@@ -81,7 +81,7 @@ Load a saved model checkpoint to watch the trained agent walk in real time.
 
 ---
 
-## 🎥 Demo
+## Demo : 
 
 Watch the trained agent in action: **[YouTube Demo](https://youtu.be/B8nOpcykLDk?si=asJCUD4xz6yJCcg2)**
 
@@ -89,6 +89,6 @@ Presented at the **Robotics Club, MNNIT Allahabad**.
 
 ---
 
-## 📄 License
+## License :
 
 This project is open source and available for educational and research purposes.
