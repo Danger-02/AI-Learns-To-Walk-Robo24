@@ -1,4 +1,4 @@
-# 🏃‍♂️ AI Learns to Walk — Reinforcement Learning with AntBullet
+# AI Learns to Walk — Reinforcement Learning for Quadruped Locomotion
 
 Training and visualizing a physics-based quadruped locomotion agent using Deep Reinforcement Learning.
 
